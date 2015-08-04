@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Untitled RSS Feed]]></title>
+        <description><![CDATA[Untitled RSS Feed]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 04 Aug 2015 17:25:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="keeping me up late&colon; measuring and clustering typefaces in multi-dimensions with &commat;aut0mata &num;kmeansbusiness&period; MORE SOON&period;" src="https://pbs.twimg.com/media/CKehfgEUsAAACY8.png:large">]]></description>
+            <link>https://twitter.com/jongold/status/623644637090181120</link>
+            <guid isPermaLink="false">1e333e2d-a5f1-4b29-8015-749b61e826b3</guid>
+            <pubDate>Tue, 04 Aug 2015 17:25:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
