@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/generative/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 04 Aug 2015 17:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2015 17:29:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/generative/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="A collage of scary creatures from &num;deepdream" src="https://pbs.twimg.com/media/CI_UK0vWIAAaIFa.png:large">]]></description>
+            <link>https://twitter.com/aut0mata/status/616944958910693376</link>
+            <guid isPermaLink="false">e7dd3801-3ee6-48c1-910b-a2aa2043d46a</guid>
+            <pubDate>Tue, 04 Aug 2015 17:28:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="First 20 seconds of a &num;deepdream version for the &quot;Big Buck Bunny&quot; movie &lpar;lowres&comma; WIP&rpar; https&colon;&sol;&sol;vimeo&period;com&sol;132556289" src="https://pbs.twimg.com/media/CJA7xb7WUAABav_.png:large">]]></description>
