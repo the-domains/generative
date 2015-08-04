@@ -1,7 +1,7 @@
-name: null
+name: generative
 favicon: null
-layout_spectrum: 0.25166
-typography_spectrum: 0.24579
+layout_spectrum: 0.85856
+typography_spectrum: 0.14924
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#e94586'
     - '#8e7783'
     - '#574949'
-  brandStrength: 0
-  lightness: 0.375
+  brandStrength: 0.8125
+  lightness: 0.0625
   saturation: 0.6875
   rhythmicContrast: 0.75
 purpose: []
