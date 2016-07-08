@@ -2,6 +2,7 @@ name: generative
 favicon: null
 layout_spectrum: 0.85856
 typography_spectrum: 0.14924
+style: the-composer
 cta:
   domain: null
   bucket: null
